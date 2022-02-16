@@ -9,7 +9,7 @@ Second Edition, Mihalis Tsoukalos
 ### &nbsp;&nbsp;&nbsp;&nbsp; [The history of Go](./p36/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Where is Go going ?](./p37/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [The advantages of Go](./p38/README.md)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is Go perfect ?
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Is Go perfect ?](./p40/README.md)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is a preprocessor ?
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The godoc utility
 ### &nbsp;&nbsp;&nbsp;&nbsp; Compiling Go code
