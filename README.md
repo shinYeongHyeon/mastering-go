@@ -15,7 +15,7 @@ Second Edition, Mihalis Tsoukalos
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Compiling Go code](./p44/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Executing Go code](./p46/README.md)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Two Go rules
+### &nbsp;&nbsp;&nbsp;&nbsp; [Two Go rules](./p47/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You either use a Go package or you do not include it
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is only one way to format curly braces
 ### &nbsp;&nbsp;&nbsp;&nbsp; Downloading Go packages
