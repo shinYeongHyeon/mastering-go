@@ -18,7 +18,7 @@ Second Edition, Mihalis Tsoukalos
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Two Go rules](./p47/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [You either use a Go package or you do not include it](./p48/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [There is only one way to format curly braces](./p50/README.md)
-### &nbsp;&nbsp;&nbsp;&nbsp; Downloading Go packages
+### &nbsp;&nbsp;&nbsp;&nbsp; [Downloading Go packages](./p51/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; UNIX stdin, stdout, and stderr
 ### &nbsp;&nbsp;&nbsp;&nbsp; About printing output
 ### &nbsp;&nbsp;&nbsp;&nbsp; Using standard output
