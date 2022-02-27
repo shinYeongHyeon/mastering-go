@@ -20,7 +20,7 @@ Second Edition, Mihalis Tsoukalos
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [There is only one way to format curly braces](./p50/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Downloading Go packages](./p51/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [UNIX stdin, stdout, and stderr](./p54/README.md)
-### &nbsp;&nbsp;&nbsp;&nbsp; About printing output
+### &nbsp;&nbsp;&nbsp;&nbsp; [About printing output](./p55/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; Using standard output
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Getting user input
