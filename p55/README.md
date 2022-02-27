@@ -13,6 +13,55 @@ C의 `printf(3)` 과 마찬가지로 수행하려는 작업을 더 잘 제어할
 Go 는 format specifier 를 동사(verbs) 라고 부른다.  
 이에 대해서는 [https://golang.org/pkg/fmt](https://golang.org/pkg/fmt) 에서 더 많은 verbs 정보를 확인할 수 있다.  
 
+만약 어떤 것을 출력하기 전에 formatting 을 할 생각이라면, 여러 변수를 정렬할 생각이라면 `fmt.Printf()` 를 쓰는 것이 좋은 선택일 수 있다.  
+그러나, 한 변수만 출력할 예정이라면 `fmt.Print()` 혹은 `fmt.Println()` 중 개행 여부에 따라서 선택하면 된다.  
+
+`printing.go` 의 첫 번째 부분부터 보자.
+
+```go
+// printing.go
+
+package main
+
+import "fmt"
+
+func main() {
+	v1 := "123"
+	v2 := 123
+	v3 := "Have a nice day\n"
+	v4 := "abc"
+```
+
+이 부분에서, `fmt` 패키지를 import 한 것을 볼 수 있다.  
+v3 에 사용된 `\n` 은 개행 문자이다.  
+그러나, 별다른 인자 없이 출력에 개행을 원하면 `fmt.Println()` 을 쓰면 된다.  
+
+두 번째 부분을 보자.
+```go
+// printing.go SecondPart
+
+fmt.Print(v1, v2, v3, v4)
+fmt.Println()
+fmt.Println(v1, v2, v3, v4)
+fmt.Print(v1, " ", v2, " ", v3, " ", v4, "\n")
+fmt.Printf("%s%d %s %s\n", v1, v2, v3, v4)
+}
+```
+
+이 부분에서는 4 변수를 각종 Print 함수로 사용한다.  
+`printing.go` 를 사용하면 아래의 결과를 볼 수 있다.  
+
+```shell
+123123Have a nice day
+abc
+123 123 Have a nice day
+ abc
+123 123 Have a nice day
+ abc
+123123 Have a nice day
+ abc
+```
+
 --
 
 * `format specifier`: %s, %d 와 같은 형식 지정자  
