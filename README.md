@@ -27,3 +27,11 @@ Second Edition, Mihalis Tsoukalos
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; About := and =
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Reading from standard input](./p63/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Working with command-line arguments](./p65/README.md)
+
+--
+
+## 추가 정보
+
+* Go는 정적언어이다. 컴파일러가 있다는 뜻이다.
+* 강타입 언어이다.
+* 가비지 컬렉터가 존재한다.
