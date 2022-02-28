@@ -21,9 +21,9 @@ Second Edition, Mihalis Tsoukalos
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Downloading Go packages](./p51/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [UNIX stdin, stdout, and stderr](./p54/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp; [About printing output](./p55/README.md)
-### &nbsp;&nbsp;&nbsp;&nbsp; Using standard output
+### &nbsp;&nbsp;&nbsp;&nbsp; [Using standard output](./p58/README.md)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Getting user input
+### &nbsp;&nbsp;&nbsp;&nbsp; [Getting user input](./p60/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; About := and =
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Reading from standard input](./p63/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Working with command-line arguments](./p65/README.md)
