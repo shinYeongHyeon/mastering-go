@@ -40,6 +40,7 @@ Second Edition, Mihalis Tsoukalos
 ### &nbsp;&nbsp;&nbsp;&nbsp; [About error output](./p68/README.md) 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; [Writing to log files](./p71/README.md)
+ #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Logging levels](./p72/README.md)
 
 --
 
