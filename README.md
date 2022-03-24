@@ -28,6 +28,8 @@ Second Edition, Mihalis Tsoukalos
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Reading from standard input](./p63/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Working with command-line arguments](./p65/README.md)
 
+### &nbsp;&nbsp;&nbsp;&nbsp; [About error output](./p68/README.md) 
+
 --
 
 ## 추가 정보
