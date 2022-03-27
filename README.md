@@ -52,3 +52,9 @@ Second Edition, Mihalis Tsoukalos
 * Go는 정적언어이다. 컴파일러가 있다는 뜻이다.
 * 강타입 언어이다.
 * 가비지 컬렉터가 존재한다.
+
+--
+
+## 부록
+
+[Printf 형식 지정자 목록](./appendix/fmt/FormatOfPrintf.md)

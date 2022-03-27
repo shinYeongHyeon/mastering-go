@@ -65,3 +65,4 @@ abc
 --
 
 * `format specifier`: %s, %d 와 같은 형식 지정자  
+* [형식 지정자 목록](../appendix/fmt/FormatOfPrintf.md)
