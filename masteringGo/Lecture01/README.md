@@ -13,7 +13,7 @@ Second Edition, Mihalis Tsoukalos
 - [The history of Go](p36/README.md)
 - [Where is Go going ?](p37/README.md)
 - [The advantages of Go](p38/README.md)
-  - [Is Go perfect ?](p40/README.md)
+  - [Is Go perfect ?](p38/p40/isGoPerfect.md)
     - [What is a preprocessor ?](p41/README.md)
   - [The godoc utility](p42/README.md)
 - [Compiling Go code](p44/README.md)
