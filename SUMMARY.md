@@ -1,7 +1,9 @@
 # Table of contents
 
-- Tucker Go
-  - [01. xxx](./tuckerGo/Lecture01/README.md)
+- [Tucker Go](./tuckerGo/README.md)
+  - [01. Hello Go World](./tuckerGo/Lecture01/README.md)
+  - [02. 변수](./tuckerGo/Lecture02/README.md)
+  - [03. 상수](./tuckerGo/Lecture03/README.md)
 
 - Mastering Go
   - [01. Go and the Operating System](./masteringGo/Lecture01/README.md)
