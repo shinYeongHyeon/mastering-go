@@ -3,7 +3,8 @@
 ## Tucker Go
 
 ## Mastering Go
-[REAMDE.md](./masteringGo/README.md)
+[README.md](./masteringGo/README.md)
+
 ### 1. Go and the Operating System
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; [The history of Go](masteringGo/p36EADME.md)
